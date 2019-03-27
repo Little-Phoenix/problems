@@ -45,7 +45,7 @@ npm install -g webpack --unsafe-perm=true --allow-root
 ## 问题2
   
   https://easy.lagou.com/userGoodsRecord/queryGoods/index.htm
-  img[./update-phone.png]
+  ![image](./update-phone.png)
   1. 点击“修改呼叫号码”
 
 
