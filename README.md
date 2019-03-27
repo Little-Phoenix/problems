@@ -39,3 +39,13 @@ npm install -g webpack --unsafe-perm=true --allow-root
 ```
 
 ## 重点在--unsafe-perm=true --allow-root
+
+
+
+## 问题2
+  
+  https://easy.lagou.com/userGoodsRecord/queryGoods/index.htm
+  img[./update-phone.png]
+  1. 点击“修改呼叫号码”
+
+
