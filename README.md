@@ -43,9 +43,16 @@ npm install -g webpack --unsafe-perm=true --allow-root
 
 
 ## 问题2
-  
-  https://easy.lagou.com/userGoodsRecord/queryGoods/index.htm
-  ![image](./update-phone.png)
-  1. 点击“修改呼叫号码”
+  连续回车换行的字符串，split为数组，但是不确定回车换行的次数，则需要通过正则进行split
+ ```
+ `
+ fsadfsdfsdf
 
+sfd
+
+sdfas
+
+dfasdf
+ `.split(/[\s\r]+/)
+ ```
 
